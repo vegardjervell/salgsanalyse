@@ -1,0 +1,8 @@
+dist/
+HC_salgsanalyse.egg-info/
+build/
+.idea/
+.DS_
+salgsanalyse/.idea/
+salgsanalyse/__pycache__/
+venv/
