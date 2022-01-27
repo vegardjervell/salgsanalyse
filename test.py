@@ -1,3 +1,4 @@
-from salgsanalyse import analyser
+from salgsanalyse import analyser, help
 
-analyser('alt.xlsx')
+help()
+#analyser('alt.xlsx')
