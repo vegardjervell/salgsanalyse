@@ -2,7 +2,7 @@ from setuptools import setup
 from pathlib import Path
 this_directory = Path(__file__).parent
 setup(name='HC_salgsanalyse',
-      version='1.0.1',
+      version='1.0.2',
       description='Salgsanalyse for iZettle-excel dokument',
       long_description=(this_directory / "readme.md").read_text(),
       long_description_content_type='text/markdown',
