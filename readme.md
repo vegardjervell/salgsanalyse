@@ -4,6 +4,8 @@ Dette programmet inneholder hovedfunksjonen
 For å kjøre programmet, installer pakken med
 `pip install HC_salgsanalyse`
 
+GitHub: https://github.com/vegardjervell/salgsanalyse
+
 ## Bruke pakken i et script
 Skriv og kjør et enkelt script som
 
